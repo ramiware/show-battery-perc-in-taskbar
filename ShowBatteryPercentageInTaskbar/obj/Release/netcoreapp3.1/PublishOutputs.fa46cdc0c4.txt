@@ -1,0 +1,5 @@
+C:\Users\ramis\ramiware\code\ramiware\ShowBatteryPercentageInTaskbar\ShowBatteryPercentageInTaskbar\bin\publish\ShowBatteryPercentageInTaskbar.exe
+C:\Users\ramis\ramiware\code\ramiware\ShowBatteryPercentageInTaskbar\ShowBatteryPercentageInTaskbar\bin\publish\ShowBatteryPercentageInTaskbar.dll
+C:\Users\ramis\ramiware\code\ramiware\ShowBatteryPercentageInTaskbar\ShowBatteryPercentageInTaskbar\bin\publish\ShowBatteryPercentageInTaskbar.deps.json
+C:\Users\ramis\ramiware\code\ramiware\ShowBatteryPercentageInTaskbar\ShowBatteryPercentageInTaskbar\bin\publish\ShowBatteryPercentageInTaskbar.runtimeconfig.json
+C:\Users\ramis\ramiware\code\ramiware\ShowBatteryPercentageInTaskbar\ShowBatteryPercentageInTaskbar\bin\publish\ShowBatteryPercentageInTaskbar.pdb
