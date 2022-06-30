@@ -72,15 +72,16 @@ namespace ShowBatteryPercentageInTaskbar
                 lifeVal += hourVal + " hour";
             else if (hourVal > 1)
                 lifeVal += hourVal + " hours";
-            // handle minutes
+            // handle 'and'
             if (hourVal>0)
                 lifeVal += " and ";
-            else if (minVal == 1)
+            // hand minutes
+            if (minVal == 1)
                 lifeVal += minVal + " minute";
             else if (minVal > 1)
                 lifeVal += minVal + " minutes";
 
-            // 
+            // text
             if (lifeVal.Length>0)
                 lifeVal += " remaining";
 

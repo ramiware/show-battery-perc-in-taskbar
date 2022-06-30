@@ -9,6 +9,7 @@ namespace ShowBatteryPercentageInTaskbar
         private Power power;
         private Timer powerCheckTimer;
         private int counter = 0;
+        private int counter_max = 2147483647;
         private bool warningShown = false;
         private bool numberShown = false;
 
@@ -78,6 +79,9 @@ namespace ShowBatteryPercentageInTaskbar
                 showNumber(percAsInt, isCharging);
                 numberShown = true;
             }
+
+            if (counter == counter_max)
+                counter = 0;
 
             counter++;
             Debug.WriteLine(counter + ": " + status);

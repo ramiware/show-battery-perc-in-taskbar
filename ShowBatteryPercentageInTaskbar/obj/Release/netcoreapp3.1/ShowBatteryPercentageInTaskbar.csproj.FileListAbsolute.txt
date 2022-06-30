@@ -14,8 +14,3 @@ C:\Users\ramis\ramiware\code\ramiware\ShowBatteryPercentageInTaskbar\ShowBattery
 C:\Users\ramis\ramiware\code\ramiware\ShowBatteryPercentageInTaskbar\ShowBatteryPercentageInTaskbar\obj\Release\netcoreapp3.1\ShowBatteryPercentageInTaskbar.dll
 C:\Users\ramis\ramiware\code\ramiware\ShowBatteryPercentageInTaskbar\ShowBatteryPercentageInTaskbar\obj\Release\netcoreapp3.1\ShowBatteryPercentageInTaskbar.pdb
 C:\Users\ramis\ramiware\code\ramiware\ShowBatteryPercentageInTaskbar\ShowBatteryPercentageInTaskbar\obj\Release\netcoreapp3.1\ShowBatteryPercentageInTaskbar.genruntimeconfig.cache
-C:\Users\ramis\ramiware\code\ramiware\ShowBatteryPercentageInTaskbar\ShowBatteryPercentageInTaskbar\obj\Release\netcoreapp3.1\ShowBatteryPercentageInTaskbar.csproj.AssemblyReference.cache
-C:\Users\ramis\ramiware\code\ramiware\ShowBatteryPercentageInTaskbar\ShowBatteryPercentageInTaskbar\bin\Release\netcoreapp3.1\ShowBatteryPercentageInTaskbar.dll.manifest
-C:\Users\ramis\ramiware\code\ramiware\ShowBatteryPercentageInTaskbar\ShowBatteryPercentageInTaskbar\bin\Release\netcoreapp3.1\ShowBatteryPercentageInTaskbar.application
-C:\Users\ramis\ramiware\code\ramiware\ShowBatteryPercentageInTaskbar\ShowBatteryPercentageInTaskbar\obj\Release\netcoreapp3.1\ShowBatteryPercentageInTaskbar.dll.manifest
-C:\Users\ramis\ramiware\code\ramiware\ShowBatteryPercentageInTaskbar\ShowBatteryPercentageInTaskbar\obj\Release\netcoreapp3.1\ShowBatteryPercentageInTaskbar.application
