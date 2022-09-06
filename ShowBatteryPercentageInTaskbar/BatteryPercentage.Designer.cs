@@ -123,9 +123,9 @@ namespace ShowBatteryPercentageInTaskbar
             this.label2.ForeColor = System.Drawing.Color.White;
             this.label2.Location = new System.Drawing.Point(62, 176);
             this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(90, 15);
+            this.label2.Size = new System.Drawing.Size(96, 15);
             this.label2.TabIndex = 4;
-            this.label2.Text = "Version 1.0 2022";
+            this.label2.Text = "Version 1.02 2022";
             // 
             // label3
             // 

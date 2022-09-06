@@ -8,10 +8,16 @@ namespace ShowBatteryPercentageInTaskbar
     {
         private Power power;
         private Timer powerCheckTimer;
-        private int counter = 0;
-        private int counter_max = 2147483647;
+
         private bool warningShown = false;
         private bool numberShown = false;
+
+        private int cleanupMemoryCount = 0;
+        private int CLEANUP_MEMORY_MAX = 10;
+
+        // TESTING
+        //private int counter = 0;
+        //private int counter_max = 2147483647;
 
         /// <summary>
         /// Constructor
@@ -44,6 +50,36 @@ namespace ShowBatteryPercentageInTaskbar
         private void powerCheckTimer_Tick(object sender, EventArgs e)
         {
             updatePowerStatus();
+
+            if (cleanupMemoryCount == CLEANUP_MEMORY_MAX)
+            {
+                cleanupMemoryCount = 0;
+                checkMemoryUsage();
+            }
+            else
+                cleanupMemoryCount++;
+        }
+
+        private void checkMemoryUsage()
+        {
+            GC.Collect();
+            //long mem1 = GC.GetTotalMemory(false);
+            //{
+            //    // Allocate an array and make it unreachable.
+            //    int[] values = new int[50000];
+            //    values = null;
+            //}
+            //long mem2 = GC.GetTotalMemory(false);
+            //{
+            //    // Collect garbage.
+            //    GC.Collect();
+            //}
+            //long mem3 = GC.GetTotalMemory(false);
+            //{
+            //    Debug.WriteLine(mem1);
+            //    Debug.WriteLine(mem2);
+            //    Debug.WriteLine(mem3);
+            //}
         }
 
         /// <summary>
@@ -80,11 +116,12 @@ namespace ShowBatteryPercentageInTaskbar
                 numberShown = true;
             }
 
-            if (counter == counter_max)
-                counter = 0;
+            // TESTING
+            //if (counter == counter_max)
+            //    counter = 0;
 
-            counter++;
-            Debug.WriteLine(counter + ": " + status);
+            //counter++;
+            //Debug.WriteLine(counter + ": " + status);
         }
 
         /// <summary>

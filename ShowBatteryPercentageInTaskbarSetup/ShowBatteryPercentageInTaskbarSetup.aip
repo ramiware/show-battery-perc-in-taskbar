@@ -14,10 +14,10 @@
     <ROW Property="ARPURLINFOABOUT" Value="http://ramiware.com"/>
     <ROW Property="CTRLS" Value="2"/>
     <ROW Property="Manufacturer" Value="Ramiware"/>
-    <ROW Property="ProductCode" Value="1033:{DAF7D416-2C6A-4535-B43F-E3A25F77EB96} " Type="16"/>
+    <ROW Property="ProductCode" Value="1033:{EEEC1D0E-083D-4517-88B2-7D214F16ADDF} " Type="16"/>
     <ROW Property="ProductLanguage" Value="1033"/>
     <ROW Property="ProductName" Value="Show Battery Percentage In Taskbar"/>
-    <ROW Property="ProductVersion" Value="1.0.0"/>
+    <ROW Property="ProductVersion" Value="1.01"/>
     <ROW Property="RUNAPPLICATION" Value="1" Type="4"/>
     <ROW Property="SecureCustomProperties" Value="OLDPRODUCTS;AI_NEWERPRODUCTFOUND"/>
     <ROW Property="UpgradeCode" Value="{750E07E4-5F4E-44A3-ACD4-2971750FC24A}"/>
