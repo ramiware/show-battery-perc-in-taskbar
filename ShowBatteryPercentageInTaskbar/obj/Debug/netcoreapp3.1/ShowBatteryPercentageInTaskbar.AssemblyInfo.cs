@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ShowBatteryPercentageInTaskbar")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f7496e789d7a46f35ec569e6bc326ed63b13aa72")]
 [assembly: System.Reflection.AssemblyProductAttribute("ShowBatteryPercentageInTaskbar")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ShowBatteryPercentageInTaskbar")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

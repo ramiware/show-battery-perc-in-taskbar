@@ -1,0 +1,44 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ramis\\OneDrive - YM Inc\\ramiware\\code\\ramiware\\ShowBatteryPercentageInTaskbar\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A821BC98-F4D5-498B-9DDE-C13C35F36D6F}|ShowBatteryPercentageInTaskbar\\ShowBatteryPercentageInTaskbar.csproj|c:\\users\\ramis\\onedrive - ym inc\\ramiware\\code\\ramiware\\showbatterypercentageintaskbar\\showbatterypercentageintaskbar\\showbatterypercentageintaskbar.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{A821BC98-F4D5-498B-9DDE-C13C35F36D6F}|ShowBatteryPercentageInTaskbar\\ShowBatteryPercentageInTaskbar.csproj|solutionrelative:showbatterypercentageintaskbar\\showbatterypercentageintaskbar.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ShowBatteryPercentageInTaskbar",
+              "DocumentMoniker": "C:\\Users\\ramis\\OneDrive - YM Inc\\ramiware\\code\\ramiware\\ShowBatteryPercentageInTaskbar\\ShowBatteryPercentageInTaskbar\\ShowBatteryPercentageInTaskbar.csproj",
+              "RelativeDocumentMoniker": "ShowBatteryPercentageInTaskbar\\ShowBatteryPercentageInTaskbar.csproj",
+              "ToolTip": "C:\\Users\\ramis\\OneDrive - YM Inc\\ramiware\\code\\ramiware\\ShowBatteryPercentageInTaskbar\\ShowBatteryPercentageInTaskbar\\ShowBatteryPercentageInTaskbar.csproj",
+              "RelativeToolTip": "ShowBatteryPercentageInTaskbar\\ShowBatteryPercentageInTaskbar.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-07-03T14:51:29.691Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

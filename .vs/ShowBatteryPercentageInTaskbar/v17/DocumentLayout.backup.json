@@ -1,0 +1,76 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ramis\\OneDrive - YM Inc\\ramiware\\code\\ramiware\\ShowBatteryPercentageInTaskbar\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A821BC98-F4D5-498B-9DDE-C13C35F36D6F}|ShowBatteryPercentageInTaskbar\\ShowBatteryPercentageInTaskbar.csproj|C:\\Users\\ramis\\OneDrive - YM Inc\\ramiware\\code\\ramiware\\ShowBatteryPercentageInTaskbar\\showbatterypercentageintaskbar\\batterypercentage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A821BC98-F4D5-498B-9DDE-C13C35F36D6F}|ShowBatteryPercentageInTaskbar\\ShowBatteryPercentageInTaskbar.csproj|solutionrelative:showbatterypercentageintaskbar\\batterypercentage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C9AFA42-5B21-408E-AF26-038C7A1117EA}|ShowBatteryPercentageInTaskbarSetup\\ShowBatteryPercentageInTaskbarSetup.aiproj|C:\\Users\\ramis\\OneDrive - YM Inc\\ramiware\\code\\ramiware\\ShowBatteryPercentageInTaskbar\\ShowBatteryPercentageInTaskbarSetup\\ShowBatteryPercentageInTaskbarSetup.aip||{AE40A4D1-A614-4A08-B9E2-B74E011783ED}",
+      "RelativeMoniker": "D:0:0:{6C9AFA42-5B21-408E-AF26-038C7A1117EA}|ShowBatteryPercentageInTaskbarSetup\\ShowBatteryPercentageInTaskbarSetup.aiproj|solutionrelative:ShowBatteryPercentageInTaskbarSetup\\ShowBatteryPercentageInTaskbarSetup.aip||{AE40A4D1-A614-4A08-B9E2-B74E011783ED}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A821BC98-F4D5-498B-9DDE-C13C35F36D6F}|ShowBatteryPercentageInTaskbar\\ShowBatteryPercentageInTaskbar.csproj|c:\\users\\ramis\\onedrive - ym inc\\ramiware\\code\\ramiware\\showbatterypercentageintaskbar\\showbatterypercentageintaskbar\\showbatterypercentageintaskbar.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{A821BC98-F4D5-498B-9DDE-C13C35F36D6F}|ShowBatteryPercentageInTaskbar\\ShowBatteryPercentageInTaskbar.csproj|solutionrelative:showbatterypercentageintaskbar\\showbatterypercentageintaskbar.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ShowBatteryPercentageInTaskbar",
+              "DocumentMoniker": "C:\\Users\\ramis\\OneDrive - YM Inc\\ramiware\\code\\ramiware\\ShowBatteryPercentageInTaskbar\\ShowBatteryPercentageInTaskbar\\ShowBatteryPercentageInTaskbar.csproj",
+              "RelativeDocumentMoniker": "ShowBatteryPercentageInTaskbar\\ShowBatteryPercentageInTaskbar.csproj",
+              "ToolTip": "C:\\Users\\ramis\\OneDrive - YM Inc\\ramiware\\code\\ramiware\\ShowBatteryPercentageInTaskbar\\ShowBatteryPercentageInTaskbar\\ShowBatteryPercentageInTaskbar.csproj",
+              "RelativeToolTip": "ShowBatteryPercentageInTaskbar\\ShowBatteryPercentageInTaskbar.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-07-03T14:51:29.691Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ShowBatteryPercentageInTaskbarSetup.aip",
+              "DocumentMoniker": "C:\\Users\\ramis\\OneDrive - YM Inc\\ramiware\\code\\ramiware\\ShowBatteryPercentageInTaskbar\\ShowBatteryPercentageInTaskbarSetup\\ShowBatteryPercentageInTaskbarSetup.aip",
+              "RelativeDocumentMoniker": "ShowBatteryPercentageInTaskbarSetup\\ShowBatteryPercentageInTaskbarSetup.aip",
+              "ToolTip": "C:\\Users\\ramis\\OneDrive - YM Inc\\ramiware\\code\\ramiware\\ShowBatteryPercentageInTaskbar\\ShowBatteryPercentageInTaskbarSetup\\ShowBatteryPercentageInTaskbarSetup.aip",
+              "RelativeToolTip": "ShowBatteryPercentageInTaskbarSetup\\ShowBatteryPercentageInTaskbarSetup.aip",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAHRSURBVDhPhdJPiIxhHAfwz7xrWzU1Lk7Exha5\u002BZfoTaRtFKc57OaixEFvSXIaXJy02Wy2NnNBDhzs1ryyNxdKc9td/3KSxooVi7JsRtodB8\u002Bw8x741tPT7/f98zw9zy8H8wPrVuIFangQ1qN8ub7gX2g2mzm/A/pxO0PP4SEefF4o3Dj05vynWqXUzGhEYd\u002Bf6UMBB3HxwsfDu/E8TtK\u002BrKgV0JvpwzvcxcTTRs8ObMJonKRX4yTtaImi\u002BYF1G7C23Ut1bs/R4vTQ7JkPx89h6cnHMNgqIhSXkGO4CYWO\u002BQgzk983ltGzRAOn4iTdLgTsCs0nxemhh8XpoVmM9eYnRu91ny515X5eafeCHE5CdOD14P07X3f3LYouYU135/spbEUeb380O6u4kU3APsjFSdr6mjkUIosj11cP3Fq17ONOvMyX6\u002BNxkm7BVLufWqWUi9AIdQEWRSeOvD27Ml\u002BuX86X6\u002BOBW/3X9gcN4Q2eZRkMx0m6DeIk3YrhrKDli1DNMliPiThJG5gMdRZVIWAEM1k2oCvbCJgJPlGtUvqG/iVv8T800B98v0e5VinVsBevsuoMXmFv0BMG4g/iJF0eRrUPm7ECX/A4TOm1WqXUdtNfzkGPxBC9wFQAAAAASUVORK5CYII=",
+              "WhenOpened": "2024-06-13T18:54:18.89Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BatteryPercentage.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ramis\\OneDrive - YM Inc\\ramiware\\code\\ramiware\\ShowBatteryPercentageInTaskbar\\ShowBatteryPercentageInTaskbar\\BatteryPercentage.cs",
+              "RelativeDocumentMoniker": "ShowBatteryPercentageInTaskbar\\BatteryPercentage.cs",
+              "ToolTip": "C:\\Users\\ramis\\OneDrive - YM Inc\\ramiware\\code\\ramiware\\ShowBatteryPercentageInTaskbar\\ShowBatteryPercentageInTaskbar\\BatteryPercentage.cs [Design]",
+              "RelativeToolTip": "ShowBatteryPercentageInTaskbar\\BatteryPercentage.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T00:12:42.676Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
